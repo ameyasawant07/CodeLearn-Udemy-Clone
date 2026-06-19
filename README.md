@@ -1,27 +1,27 @@
 # CodeLearn - LeetCode + Udemy Clone
 
-
 A full-stack platform combining Udemy-style courses with LeetCode-style coding problems.
-
 
 ## Features
 
-
 ### Course Platform (Udemy-style)
+
 - Browse and enroll in courses
 - Video lessons with progress tracking
 - Course categories and ratings
 - Instructor Information
 
 ### Coding Problems (LeetCode-style)
+
 - Problem list with difficulty levels
 - Code editor with syntax highlighting (Monaco Editor)
 - Multiple language support (JavaScript, Python, Java)
 - Test case execution
 - Submission tracking
-- Acceptance rates and statistics
+- Acceptance rates and Statistics
 
 ### User Features
+
 - User authentication (JWT)
 - Personal dashboard
 - Progress tracking
@@ -39,11 +39,13 @@ A full-stack platform combining Udemy-style courses with LeetCode-style coding p
 ## Getting Started
 
 1. Install dependencies:
+
 ```bash
 npm install
 ```
 
 2. Run the development server:
+
 ```bash
 npm run dev
 ```
@@ -88,4 +90,3 @@ You can create accounts through the registration page. All data is stored locall
 - Leaderboards
 - Certificates
 - Mobile app
-
