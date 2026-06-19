@@ -26,7 +26,7 @@ A full-stack platform combining Udemy-style courses with LeetCode-style coding p
 - Personal dashboard
 - Progress tracking
 - Course enrollment
-- Problem solving history
+- Problem Solving History
 
 ## Tech Stack
 
