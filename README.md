@@ -18,7 +18,7 @@ A full-stack platform combining Udemy-style courses with LeetCode-style coding p
 - Multiple language support (JavaScript, Python, Java)
 - Test case execution
 - Submission tracking
-- Acceptance rates and Statistics
+- Acceptance Rates and Statistics
 
 ### User Features
 
