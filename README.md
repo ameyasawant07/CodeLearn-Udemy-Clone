@@ -1,14 +1,17 @@
 # CodeLearn - LeetCode + Udemy Clone
 
+
 A full-stack platform combining Udemy-style courses with LeetCode-style coding problems.
 
+
 ## Features
+
 
 ### Course Platform (Udemy-style)
 - Browse and enroll in courses
 - Video lessons with progress tracking
 - Course categories and ratings
-- Instructor information
+- Instructor Information
 
 ### Coding Problems (LeetCode-style)
 - Problem list with difficulty levels
