@@ -34,6 +34,9 @@ export function createUser(email: string, password: string, name: string, role: 
     role,
     enrolledCourses: [],
     solvedProblems: [],
+    completedLessons: [],
+    completedCourses: [],
+    credentialPoints: 0,
     createdAt: new Date().toISOString(),
   };
   db.users.push(user);
